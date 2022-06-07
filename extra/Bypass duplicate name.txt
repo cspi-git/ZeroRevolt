@@ -1,0 +1,8 @@
+1. Copy the name of the user that you want to copy.
+2. Change at least 1 character using unicode and make it look exactly the same with the help of unicode.
+3. Have fun :)
+
+Links:
+https://www.irongeek.com/homoglyph-attack-generator.php
+https://www.copyandpastesymbols.net/line-symbols.html
+https://blankcharacters.com/
