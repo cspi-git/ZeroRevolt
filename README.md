@@ -12,6 +12,8 @@
 | H1MarkdownSpammer | Server channel spammer using markdown h1. |
 | embedDDoS | Allows you to DDoS any channel/server with the use of embed(Only works with embed enabled). |
 | serverInformation | Grabs the specified server information. |
+| Vexus | Probably the first Revolt nuker built. |
+| maskMention | Mask user mention. |
 
 <br> 
     
