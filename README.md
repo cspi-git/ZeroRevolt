@@ -14,6 +14,7 @@
 | serverInformation | Grabs the specified server information. |
 | Vexus | Probably the first Revolt nuker built. |
 | maskMention | Mask user mention. |
+| embedDDoS(Bypass) | Bypass version of embedDDoS. |
 
 <br> 
     
