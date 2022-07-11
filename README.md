@@ -15,6 +15,7 @@
 | Vexus | Probably the first Revolt nuker built. |
 | maskMention | Mask user mention. |
 | embedDDoS(Bypass) | Bypass version of embedDDoS. |
+| systemMessageIIV | Allows you to redirect your server **user join** to any server channel. |
 
 <br> 
     
