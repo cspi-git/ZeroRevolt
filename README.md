@@ -16,6 +16,7 @@
 | maskMention | Mask user mention. |
 | embedDDoS(Bypass) | Bypass version of embedDDoS. |
 | systemMessageIIV | Allows you to redirect your server **user join** to any server channel. |
+| categoriesDDoS | Allows you to DDoS any server that you have "Manage Channels" permission on. |
 
 <br> 
     
