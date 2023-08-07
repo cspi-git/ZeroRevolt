@@ -1,4 +1,4 @@
-# embedDDoS(Bypass)
+# embedDDoS (Bypass)
 Bypass version of embedDDoS.
 
 ## Installation
@@ -13,4 +13,4 @@ node index.js <token> <channelID>
 ```
 
 - token - The Revolt account session token to use.
-- serverID - The target channel(ID).
+- serverID - The target channel (ID).

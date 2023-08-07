@@ -1,5 +1,5 @@
 # categoriesDDoS
-Allows you to DDoS any server that you have "Manage Channels" permission on.
+Allows you to DDoS any server that you have **Manage Channels**"** permission on.
 
 ## Installation
 NpmJS:
@@ -13,4 +13,4 @@ node index.js <token> <serverID>
 ```
 
 - token - The Revolt account session token to use.
-- serverID - The target server(ID).
+- serverID - The target server (ID).

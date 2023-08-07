@@ -23,6 +23,5 @@
     })
 
     response = JSON.parse(response.body)
-
     response.hasOwnProperty("content") ? console.log("Payload sent.") : console.log("Unable to send payload.")
 })()

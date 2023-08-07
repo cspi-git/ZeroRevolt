@@ -11,17 +11,13 @@
     // Functions
     function makePayload(){
         var payload = String.fromCharCode(Math.floor(Math.random() * 9999))
-
         for( let i = 0; i <= 998; i++ ) payload += `\n${String.fromCharCode(Math.floor(Math.random() * 9999))}`
-
         return payload
     }
 
     function makeTitlePayload(){
         var payload = String.fromCharCode(Math.floor(Math.random() * 9999))
-
         for( let i = 0; i <= 70; i++ ) payload += String.fromCharCode(Math.floor(Math.random() * 9999))
-
         return payload
     }
     

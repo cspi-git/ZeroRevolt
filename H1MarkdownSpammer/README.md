@@ -13,4 +13,4 @@ node index.js <token> <channelID>
 ```
 
 - token - The Revolt account session token to use.
-- channelID - The target channel(ID).
+- channelID - The target channel (ID).

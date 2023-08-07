@@ -13,6 +13,6 @@ node index.js <token> <serverID> <userID> <roleID>
 ```
 
 - token - The Revolt account session token to use.
-- serverID - The target server(ID).
-- userID - The target user(ID).
-- roleID - The target role(ID) to give to the user.
+- serverID - The target server (ID).
+- userID - The target user (ID).
+- roleID - The target role (ID) to give to the user.

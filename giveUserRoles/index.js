@@ -22,6 +22,5 @@
     })
 
     response = JSON.parse(response.body)
-
     response.hasOwnProperty("permission") ? console.log("Unable to give user the role.") : console.log("Role successfully give to user.")
 })()

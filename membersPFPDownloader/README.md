@@ -13,5 +13,5 @@ node index.js <token> <serverID> <output>
 ```
 
 - token - The Revolt account session token to use.
-- serverID - The target server(ID).
+- serverID - The target server (ID).
 - output - Output directory of the downloaded profile picture.
