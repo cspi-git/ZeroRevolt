@@ -1,5 +1,5 @@
 # userInformation
-Grab's the specified user(ID) information.
+Grab's the specified user (ID) information.
 
 ## Installation
 NpmJS:
@@ -13,4 +13,4 @@ usage: node index.js <token> <userID>
 ```
 
 - token - The Revolt account session token to use.
-- userID - The target user(ID).
+- userID - The target user (ID).

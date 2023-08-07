@@ -10,9 +10,7 @@ const args = process.argv.slice(2)
 // Functions
 function makePayload(){
     var payload = "# 1"
-
     for( let i = 0; i <= 498; i++ ) payload += "\n# 1"
-
     return payload
 }
 
@@ -29,7 +27,6 @@ async function spam(){
 
     if(response.hasOwnProperty("retry_after")){
         console.log(`Limit detected. Retry after: ${response.retry_after}`)
-
         await delay(response.retry_after)
     }else{
         console.log("Payload sent.")

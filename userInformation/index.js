@@ -1,4 +1,4 @@
-const { isObject } = require("lodash");
+"use strict";
 
 (async()=>{
     "use strict";
@@ -6,7 +6,6 @@ const { isObject } = require("lodash");
     // Dependencies
     const prettyOutput = require("prettyoutput")
     const request = require("request-async")
-
 
     // Variables
     const args = process.argv.slice(2)

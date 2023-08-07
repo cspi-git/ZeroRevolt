@@ -13,4 +13,4 @@ node index.js <token> <serverID>
 ```
 
 - token - The Revolt account session token to use.
-- serverID - The target server(ID).
+- serverID - The target server (ID).
